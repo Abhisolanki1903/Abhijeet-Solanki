@@ -1,0 +1,5 @@
+{
+  "name": "AquaLIMS - Water Quality Management",
+  "description": "A secure, role-based Laboratory Information Management System for water quality data logging with strict audit trails and validation rules.",
+  "requestFramePermissions": []
+}
